@@ -1,4 +1,3 @@
-// Replace with your own GitHub username
 const username = 'joel-joy';
 
 // Get user details
